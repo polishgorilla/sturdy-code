@@ -9,7 +9,7 @@
 
 }((typeof window === 'undefined') ? module.exports : window));
 
-
+//yes
   var combinations = (function () {
     var res = [];
 
