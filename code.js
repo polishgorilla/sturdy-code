@@ -23,3 +23,4 @@
         combinations(arr, k, i + 1, idx + 1, current);
       }
     }
+//good
